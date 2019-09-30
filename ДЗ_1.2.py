@@ -4,6 +4,6 @@ c = float(input("Vvedite c "))
 d = float(input("Vvedite d "))
 f = float(input("Vvedite f "))
 if f == d:
-  print ("nelzya")
+    print ("nelzya")
 else:
-  print (a * b - c) / (f - d)
+    print (a * b - c) / (f - d)
