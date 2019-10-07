@@ -1,4 +1,4 @@
-num = input('Введите числа: ')
+num = input('Р’РІРµРґРёС‚Рµ С‡РёСЃР»Р°: ')
 list_num = []
 while num:
    list_num.append(num)
